@@ -80,7 +80,6 @@ body {
 .banner img {
     display: block;
     height: auto;
-    max-height: 520px;
     object-fit: cover;
     width: 100%;
 }
